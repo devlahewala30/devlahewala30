@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @devlahewala30<br>👀 I’m interested in Ai Learning...<br>🌱 I’m currently learning Diploma in Computer Engineering...<br>💞️ I’m looking to collaborate on Basic Projects ...<br>📫 How to reach me on instagram https://www.instagram.com/dev__lahewala30?igsh=MTM4cTI2YWh1YmRwOQ==<br>📫 How to reach me on LinkedIn https://www.linkedin.com/in/dev-lahewala-5b9bb82a9<br>😄 Pronouns: he/him...<br>⚡ Fun fact: ..<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+👋 Hi, I’m @devlahewala30<br>👀 I’m interested in Ai Learning...<br>🌱 I’m currently learning Diploma in Computer Engineering...<br>💞️ I’m looking to collaborate on Basic Projects ...<br> Pronouns: he/him...<br>⚡ Fun fact: ..<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev__lahewala30) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-lahewala-5b9bb82a9?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
